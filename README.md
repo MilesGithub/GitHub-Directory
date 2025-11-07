@@ -4,7 +4,7 @@ An index of my projects and tools. This document organizes repositories, gives s
 
 ---
 
-## Pinned repositories
+## Pinned Repositories
 
 - **Tool-Box** — *Utility scripts*  
   Useful scripts for Python and R, plus Docker, Snakemake, and Git.
@@ -23,7 +23,7 @@ An index of my projects and tools. This document organizes repositories, gives s
 
 ---
 
-## Other repositories (alphabetical)
+## Other Repositories
 - **Bash_scripts** — Bash utility scripts
 - **Canine_Lymphoma** — *Master’s project analysis* -  Analysis scripts and notebooks from the Master’s degree project focusing on canine lymphoma RNA-seq data.
 - **GeneList-R** — R package for gene-list.com
