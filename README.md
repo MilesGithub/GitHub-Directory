@@ -25,7 +25,7 @@ An index of my projects and tools. This document organizes repositories, gives s
 
 ## Other Repositories
 - **Bash_scripts** — Bash utility scripts
-- **Canine_Lymphoma** — *Master’s project analysis* -  Analysis scripts and notebooks from the Master’s degree project focusing on canine lymphoma RNA-seq data.
+- **Canine_Lymphoma** — *Master’s project analysis* -  Analysis scripts from my Master’s degree project focusing on canine lymphoma RNA-seq data.
 - **GeneList-R** — R package for gene-list.com
 - **GViz** — Code for visualizing genomic regions
 - **ML** — Machine learning examples and notebooks
@@ -39,5 +39,5 @@ An index of my projects and tools. This document organizes repositories, gives s
 ---
 
 ## License & contact
-MIT / Apache 2.0 recommended (miles [.] william [.] mee [@] gmail [.] com)
+MIT / Apache 2.0 (miles [.] william [.] mee [@] gmail [.] com)
 
